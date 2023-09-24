@@ -1,0 +1,174 @@
+D:\1.1.1.1.1-ME\template\For najaf\core6\bin\Debug\net6.0\appsettings.Development.json
+D:\1.1.1.1.1-ME\template\For najaf\core6\bin\Debug\net6.0\appsettings.json
+D:\1.1.1.1.1-ME\template\For najaf\core6\bin\Debug\net6.0\core6.exe
+D:\1.1.1.1.1-ME\template\For najaf\core6\bin\Debug\net6.0\core6.deps.json
+D:\1.1.1.1.1-ME\template\For najaf\core6\bin\Debug\net6.0\core6.runtimeconfig.json
+D:\1.1.1.1.1-ME\template\For najaf\core6\bin\Debug\net6.0\core6.dll
+D:\1.1.1.1.1-ME\template\For najaf\core6\bin\Debug\net6.0\core6.pdb
+D:\1.1.1.1.1-ME\template\For najaf\core6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\1.1.1.1.1-ME\template\For najaf\core6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\1.1.1.1.1-ME\template\For najaf\core6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1.1.1.1.1-ME\template\For najaf\core6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\core6.csproj.AssemblyReference.cache
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\core6.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\core6.AssemblyInfoInputs.cache
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\core6.AssemblyInfo.cs
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\core6.csproj.CoreCompileInputs.cache
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\core6.MvcApplicationPartsAssemblyInfo.cs
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\core6.MvcApplicationPartsAssemblyInfo.cache
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\staticwebassets.build.json
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\staticwebassets.development.json
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\scopedcss\bundle\core6.styles.css
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\core6.csproj.CopyComplete
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\core6.dll
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\refint\core6.dll
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\core6.pdb
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\core6.genruntimeconfig.cache
+D:\1.1.1.1.1-ME\template\For najaf\core6\obj\Debug\net6.0\ref\core6.dll
+D:\Projects\core6\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\core6\bin\Debug\net6.0\appsettings.json
+D:\Projects\core6\bin\Debug\net6.0\core6.exe
+D:\Projects\core6\bin\Debug\net6.0\core6.deps.json
+D:\Projects\core6\bin\Debug\net6.0\core6.runtimeconfig.json
+D:\Projects\core6\bin\Debug\net6.0\core6.dll
+D:\Projects\core6\bin\Debug\net6.0\ref\core6.dll
+D:\Projects\core6\bin\Debug\net6.0\core6.pdb
+D:\Projects\core6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\core6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\core6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\core6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\core6\obj\Debug\net6.0\core6.csproj.AssemblyReference.cache
+D:\Projects\core6\obj\Debug\net6.0\core6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\core6\obj\Debug\net6.0\core6.AssemblyInfoInputs.cache
+D:\Projects\core6\obj\Debug\net6.0\core6.AssemblyInfo.cs
+D:\Projects\core6\obj\Debug\net6.0\core6.csproj.CoreCompileInputs.cache
+D:\Projects\core6\obj\Debug\net6.0\core6.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\core6\obj\Debug\net6.0\core6.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\core6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\core6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\core6\obj\Debug\net6.0\scopedcss\bundle\core6.styles.css
+D:\Projects\core6\obj\Debug\net6.0\core6.csproj.CopyComplete
+D:\Projects\core6\obj\Debug\net6.0\core6.dll
+D:\Projects\core6\obj\Debug\net6.0\ref\core6.dll
+D:\Projects\core6\obj\Debug\net6.0\core6.pdb
+D:\Projects\core6\obj\Debug\net6.0\core6.genruntimeconfig.cache
+D:\Projects\core6\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Projects\core6\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\Projects\core6\bin\Debug\net6.0\Grpc.Net.Client.dll
+D:\Projects\core6\bin\Debug\net6.0\Grpc.Net.Common.dll
+D:\Projects\core6\bin\Debug\net6.0\OpenTelemetry.dll
+D:\Projects\core6\bin\Debug\net6.0\OpenTelemetry.Api.dll
+D:\Projects\core6\bin\Debug\net6.0\OpenTelemetry.Exporter.Console.dll
+D:\Projects\core6\bin\Debug\net6.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+D:\Projects\core6\bin\Debug\net6.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.Logs.dll
+D:\Projects\core6\bin\Debug\net6.0\OpenTelemetry.Exporter.Prometheus.AspNetCore.dll
+D:\Projects\core6\bin\Debug\net6.0\OpenTelemetry.Extensions.Hosting.dll
+D:\Projects\core6\bin\Debug\net6.0\OpenTelemetry.Instrumentation.AspNet.dll
+D:\Projects\core6\bin\Debug\net6.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+D:\Projects\core6\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Http.dll
+D:\Projects\core6\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Runtime.dll
+D:\Projects\core6\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\core6\bin\Debug\net6.0\OpenTelemetry.Instrumentation.SqlClient.dll
+D:\Projects\core6\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\appsettings.json
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\core6.exe
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\core6.deps.json
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\core6.runtimeconfig.json
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\core6.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\ref\core6.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\core6.pdb
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\Grpc.Net.Client.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\Grpc.Net.Common.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\OpenTelemetry.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\OpenTelemetry.Api.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\OpenTelemetry.Exporter.Console.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.Logs.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\OpenTelemetry.Exporter.Prometheus.AspNetCore.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\OpenTelemetry.Extensions.Hosting.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\OpenTelemetry.Instrumentation.AspNet.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Http.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Runtime.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\OpenTelemetry.Instrumentation.SqlClient.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Hybridlog\core6\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\core6.csproj.AssemblyReference.cache
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\core6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\core6.AssemblyInfoInputs.cache
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\core6.AssemblyInfo.cs
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\core6.csproj.CoreCompileInputs.cache
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\core6.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\core6.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\scopedcss\bundle\core6.styles.css
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\core6.csproj.CopyComplete
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\core6.dll
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\ref\core6.dll
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\core6.pdb
+D:\Projects\Hybridlog\core6\obj\Debug\net6.0\core6.genruntimeconfig.cache
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\core6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\core6.AssemblyInfoInputs.cache
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\core6.AssemblyInfo.cs
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\core6.csproj.CoreCompileInputs.cache
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\core6.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\core6.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\appsettings.json
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\core6.exe
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\core6.deps.json
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\core6.runtimeconfig.json
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\core6.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\ref\core6.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\core6.pdb
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\Grpc.Net.Client.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\Grpc.Net.Common.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.Api.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.Exporter.Console.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.Exporter.Jaeger.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.Logs.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.Exporter.Prometheus.AspNetCore.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.Extensions.Hosting.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Http.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.Instrumentation.Runtime.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.Instrumentation.SqlClient.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\OpenTelemetry.Instrumentation.StackExchangeRedis.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Hybridlog\app4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\scopedcss\bundle\core6.styles.css
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\core6.csproj.CopyComplete
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\core6.dll
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\ref\core6.dll
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\core6.pdb
+D:\Projects\Hybridlog\app4\obj\Debug\net6.0\core6.genruntimeconfig.cache

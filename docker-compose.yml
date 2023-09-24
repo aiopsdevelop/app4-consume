@@ -1,0 +1,31 @@
+version: '3.4'
+    
+services:
+  
+  app4:
+    container_name: "application_api4_consume"
+    build:
+      context: ./
+    entrypoint: ["./wait.sh", "30", "dotnet", "core6.dll"]
+    environment:
+      RabbitMq__Host: hybridlog.io
+      Redis__Host: hybridlog.io
+      Redis__Port: 6379
+      IMAGE: registry.kube.io/projects/645/application_api2_consume:v1
+      BRANCH: develop
+      SERVICE_NAMESPACE: devops
+      OS_VERSION: 2010
+      CRM_KEY: HW-511
+      OS_NAME: windows
+      SUBDOMAIN: application_api4_consume.localhost
+      HOST_TYPE: arm64
+      PROJECT_NAME: application_api4_consume
+      PROJECT_VERSION: v1
+      HOST_ID: localhostId
+      HOST_NAME: localhost
+      TEMPLATE_NAME: dotnetcore6
+      JIRA_PROJECT_ID: 645
+      STAGE: production
+      TEAM_NAME: database
+    extra_hosts:
+      - "hybridlog.io:192.168.30.177"
